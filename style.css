@@ -1,0 +1,49 @@
+#header {
+    position: absolute;
+    background-color: gray;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 10%;
+}
+
+.menu {
+    position: absolute;
+    background-color: gray;
+    top: 0%;
+    height: 1000%;
+    width: 10%;
+    border: 0px;
+    font-size: 100%;
+    line-height: 1em;
+}
+.profile {
+    position: absolute;
+    background-color: gray;
+    top: 0%;
+    height: 1000%;
+    width: 5%;
+    border: 0px;
+    left: 1%;
+    border-radius: 50%;
+}
+#name {
+    position: absolute;
+    left: 10%;
+}
+.menu:hover {
+    background-color:darkgray;
+}
+
+#home_btn {
+    left: 25%;
+}
+#projects_btn {
+    left: 35%;
+}
+#links_btn {
+    left: 45%;
+}
+#about_btn {
+    left: 55%;
+}

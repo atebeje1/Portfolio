@@ -1,0 +1,3 @@
+- Finds nearby retail stores based on user location
+- Allows user to search for an item and returns all the nearby offerings, sorting by price
+- Warn user if offering is online only
